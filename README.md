@@ -8,7 +8,7 @@
 
 - 🌱 On Data Engineering, I'm now learning **Spark, Kafka**
 
-- 🤝 On Machine Learning infra, I'm now learning **MLflow, Ray**
+- 🤝 On Machine Learning, I'm now learning **MLflow, Ray**
 
 - 💬 Ask me about **Data Pipeline** and **Machine Learning practices**
 
