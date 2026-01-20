@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hhhhh168&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
 
-- 🔭 I'm currently working on **End-to-End ETL pipeline**
+- 🔭 I'm currently working on designing **End-to-End ETL pipeline** that can handle terabyte level data
 
 - 🌱 On Data Engineering, I'm now learning **Spark, Kafka**
 
